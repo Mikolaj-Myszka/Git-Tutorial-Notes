@@ -2,6 +2,6 @@
 
 # Git Notes
 
-PDF Notes from Bucky's Git Tutorial
+PDF Notes from Bucky's Git Tutorial <br />
 Source: https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx
 
